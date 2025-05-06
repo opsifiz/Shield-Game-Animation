@@ -1,7 +1,14 @@
 # Shield-Game-Animation
+## Junior - Dev : Pre - TOI21, Shield Game Animation
 
-![](./assets/preview1.PNG)
+<img src="./assets/preview1.PNG" alt="Alt Text" style="width:50%; height:auto;">
+
 Testcase 1 : [https://youtu.be/zgmmU_SiYMs](https://youtu.be/zgmmU_SiYMs)
 
-![](./assets/preview2.PNG)
+Source Code : [Click here](./Case1/main1.py) 
+
+<img src="./assets/preview2.PNG" alt="Alt Text" style="width:50%; height:auto;">
+
 Testcase 2: [https://youtu.be/lgflufOVZ1o](https://youtu.be/lgflufOVZ1o)
+
+Source Code : [Click here](./Case2/main2.py) 
