@@ -1,0 +1,2 @@
+vlyadis2 as human
+imp as monster
